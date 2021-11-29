@@ -16,4 +16,7 @@ Future Features:
 	• Include stats with number of appointments, incidents, weight charts, etc
 	
   	• Send reminders when entries are approaching
+	
+
   
+<img width="903" alt="Screen Shot 2021-11-29 at 12 02 17 PM" src="https://user-images.githubusercontent.com/89805656/143938530-44d5909c-5fac-4161-87e8-ab6e895cebfd.png">
